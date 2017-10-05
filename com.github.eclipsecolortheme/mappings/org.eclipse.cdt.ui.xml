@@ -26,6 +26,14 @@
         <mapping pluginKey="content_assist_proposals_foreground" themeKey="foreground" />
         <mapping pluginKey="content_assist_proposals_background" themeKey="background" />
         <mapping pluginKey="inactiveCodeColor" themeKey="occurrenceIndication" />
+        <mapping pluginKey="buildConsoleBackgroundColor" themeKey="background" />
+        <mapping pluginKey="buildConsoleOutputStreamColor" themeKey="foreground" />
+        <mapping pluginKey="buildConsoleErrorStreamColor" themeKey="selectionForeground" />
+        <mapping pluginKey="buildConsoleInfoStreamColor" themeKey="singleLineComment" />
+        <mapping pluginKey="buildConsoleProblemBackgroundColor" themeKey="selectionBackground" />
+        <mapping pluginKey="buildConsoleProblemInfoBackgroundColor" themeKey="currentLine" />
+        <mapping pluginKey="buildConsoleProblemWarningBackgroundColor" themeKey="currentLine" />
+        <mapping pluginKey="buildConsoleProblemHighlightedColor" themeKey="keyword" />
     </mappings> 
     <semanticHighlightingMappings> 
         <semanticHighlightingMapping pluginKey="semanticHighlighting.class" themeKey="class" /> 
